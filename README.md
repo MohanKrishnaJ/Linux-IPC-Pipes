@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: MOHAN KRISHNA J
 
-Regno: 212223240036
+Regno: 212223220060
 
 # Ex03-Linux IPC - Pipes
 
